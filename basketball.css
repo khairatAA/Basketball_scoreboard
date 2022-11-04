@@ -8,7 +8,7 @@
 body {
     font-family: "Verdana", sans-serif;
     text-align: center;
-    background-image: url(/JavaScript_/basketball_1.webp);
+    background-image: url(/basketball_1.webp);
     background-size: cover;
     /* background-size: 100%; */
 
@@ -97,7 +97,7 @@ button:active{
     height: 20%;
     border-radius: 20px;
     top: 15%;
-    background-image: url(/JavaScript_/basketball\ image2.jpg);
+    background-image: url(/basketball\ image2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border: 2px solid black;
